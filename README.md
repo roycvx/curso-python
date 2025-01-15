@@ -67,7 +67,6 @@ En esta clase, aprenderás los fundamentos de Python. A continuación, se detall
        4. Comprueba que el resultado es 1.
 
    - ADICIONAL: Ejercicios prácticos para reforzar los conceptos aprendidos:
-     - Crear un programa que salude al usuario.
      - Pedir dos números y realizar operaciones matemáticas básicas.
      - Comprobar si un número es mayor, menor o igual a otro.
 ---
