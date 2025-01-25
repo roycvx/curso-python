@@ -2,73 +2,42 @@
 
 ## Instructor: [@midudev](https://instagram.com/midu.dev)
 
-### Primera Clase: Introducción a Python
-En esta clase, aprenderás los fundamentos de Python. A continuación, se detallan los temas cubiertos:
-
 ---
 
 ### Temas:
 
-#### 1. **Hola Mundo**
-   - Aprende a escribir tu primer programa en Python.
-   - Uso de `print()` para mostrar mensajes en la consola.
+#### 01. **Introducción**
+#### 02. **Variables y Funciones Incorporadas**
+#### 03. **Operadores**
+#### 04. **Strings**
+#### 05. **Listas**
+#### 06. **Tuplas**
+#### 07. **Sets**
+#### 08. **Diccionarios**
+#### 09. **Condicionales**
+#### 10. **Bucles**
+#### 11. **Funciones**
+#### 12. **Módulos**
+#### 13. **List Comprehension**
+#### 14. **Funciones de Orden Superior**
+#### 15. **Errores de Tipos en Python**
+#### 16. **Python Date time**
+#### 17. **Manejo de Excepciones**
+#### 18. **Expresiones Regulares**
+#### 19. **Manejo de Archivos**
+#### 20. **Python Package Manager**
+#### 21. **Clases y Objetos**
+#### 22. **Web Scraping**
+#### 23. **Entorno Virtual**
+#### 24. **Estadísticas**
+#### 25. **Pandas**
+#### 26. **Python web**
+#### 27. **Python con MongoDB**
+#### 28. **API**
+#### 29. **Construyendo APIs**
+#### 30. **Conclusiones**
 
-#### 2. **Tipos de Datos**
-   - Introducción a los tipos de datos básicos en Python:
-     - Números (int, float)
-     - Cadenas de texto (strings)
-     - Booleanos (True, False)
-
-#### 3. **Conversión de Tipos**
-   - Cómo convertir entre diferentes tipos de datos utilizando funciones como:
-     - `int()`
-     - `float()`
-     - `str()`
-
-#### 4. **Variables**
-   - Qué son las variables y cómo utilizarlas.
-   - Reglas de nomenclatura de variables.
-   - Ejemplos de declaración y asignación.
-
-#### 5. **Input de Datos**
-   - Cómo solicitar datos al usuario utilizando la función `input()`.
-   - Procesar y almacenar la entrada del usuario.
-
-#### 6. **Numbers**
-   - Tipos de números:
-     - Enteros.
-     - Flotantes.
-     - Complejos.
-
-#### 7. **Booleanos**
-   - Introducción a valores lógicos: `True` y `False`.
-
-#### 8. **Strings**
-   - Trabajando con cadenas de texto.
-   - Concatenación y repetición de cadenas.
-
-#### 9. **Ejercicios**
-  - Ejercicios prácticos para reforzar los conceptos aprendidos:
-     - Escribe un programa que imprima tu nombre y tu ciudad en líneas separadas.
-     - Usa el comando `type()` para determinar el tipo de datos de las siguientes variables:
-       ```python
-       a = 15
-       b = 3.14159
-       c = "Hola mundo"
-       d = True
-       e = None
-       ```
-     - Convierte la cadena `"12345"` a un entero y luego a un float. Convierte el float `3.99` a un entero y observa el resultado.
-     - Crea variables para tu nombre, edad y altura. Usa f-strings para imprimir una presentación como: `"Hola! Me llamo midudev y tengo 39 años, mido 1.70 metros"`.
-     - Realiza los siguientes cálculos:
-       1. Crea una variable con el número PI (sin asignar una variable).
-       2. Redondea el número con `round()`.
-       3. Haz la división entera entre el número que obtuviste y el número 2.
-       4. Comprueba que el resultado es 1.
-
-   - ADICIONAL: Ejercicios prácticos para reforzar los conceptos aprendidos:
-     - Pedir dos números y realizar operaciones matemáticas básicas.
-     - Comprobar si un número es mayor, menor o igual a otro.
+   - ADICIONAL: Ejercicios prácticos para reforzar los conceptos aprendidos.
 ---
 
 ### Recursos Adicionales
